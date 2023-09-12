@@ -1,3 +1,5 @@
+# Meixiang and I are practicing merge 
+
 import pandas as pd 
 import matplotlib.pyplot as plt
 data = pd.read_csv("https://media.githubusercontent.com/media/nickeubank/MIDS_Data/master/World_Development_Indicators/wdi_small_tidy_2015.csv")
