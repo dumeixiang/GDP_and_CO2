@@ -20,7 +20,12 @@ Report:
 Create a jupyter notebook in colab and change the runtime type to T4 GPU. 
 read data from a website, and manipulate it with pandas.
 link collab with github waiting for approval.
-![Alt text](https://github.com/dumeixiang/GDP_and_CO2/blob/main/Screen%20Shot%202023-10-28%20at%209.56.59%20PM.png)
 
+Create a jupyter notebook in colab and change the runtime type to T4 GPU. 
+![change runtime type](https://github.com/dumeixiang/GDP_and_CO2/blob/main/Screen%20Shot%202023-10-28%20at%209.56.59%20PM.png)
+
+![link to github](https://github.com/dumeixiang/GDP_and_CO2/blob/main/Screen%20Shot%202023-10-28%20at%209.56.59%20PM.png)
+
+![collabm python](https://github.com/dumeixiang/GDP_and_CO2/blob/main/Screen%20Shot%202023-10-28%20at%209.57.31%20PM.png)
 
 
